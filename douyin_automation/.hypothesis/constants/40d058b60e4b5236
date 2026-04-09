@@ -1,0 +1,4 @@
+# file: /Users/infinity/Code/githubs/short_video/douyin_automation/src/douyin_automation/collector/material_collector.py
+# hypothesis_version: 6.151.9
+
+[60.0, 65536, '.jpg', '.mp4', 'data/materials', 'image', 'rb', 'video', '下载失败 [%s]：%s', '下载成功 [%s] -> %s', '文件完整性校验失败（文件为空）', '超过最大重试次数']

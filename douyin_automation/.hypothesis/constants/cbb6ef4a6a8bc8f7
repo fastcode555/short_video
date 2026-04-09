@@ -1,0 +1,4 @@
+# file: /Users/infinity/Code/githubs/short_video/douyin_automation/src/douyin_automation/analyzer/product_analyzer.py
+# hypothesis_version: 6.151.9
+
+[0.2, 0.4, 0.6, 1.0, 100.0, 100, '完成 %d 个商品的评分计算']

@@ -1,0 +1,121 @@
+{
+  "name": "品牌自营榜",
+  "date": "2026-03-25",
+  "items": [
+    {
+      "rank": 1,
+      "name": "LING FENG GOLD/领丰金",
+      "sales_amount": "1w-2.5w",
+      "sales_count": "327"
+    },
+    {
+      "rank": 13,
+      "name": "24"
+    },
+    {
+      "rank": 10,
+      "name": "3"
+    },
+    {
+      "rank": 2,
+      "name": "HUAWEI/华为",
+      "sales_amount": "5000w-7500w",
+      "sales_count": "2.5w-5w",
+      "views": "8460",
+      "video_count": "853",
+      "live_count": "3192",
+      "kol_count": "2182"
+    },
+    {
+      "rank": 3,
+      "name": "Xiaomi/小米",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "2.5w-5w",
+      "views": "5428",
+      "video_count": "796",
+      "live_count": "3187",
+      "kol_count": "2096"
+    },
+    {
+      "rank": 4,
+      "name": "喵际",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "2500-5000",
+      "views": "142",
+      "video_count": "0"
+    },
+    {
+      "rank": 20,
+      "name": "12",
+      "sales_amount": "3"
+    },
+    {
+      "rank": 5,
+      "name": "Apple/苹果",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "2500-5000",
+      "views": "322"
+    },
+    {
+      "rank": 48,
+      "name": "30"
+    },
+    {
+      "rank": 23,
+      "name": "12"
+    },
+    {
+      "rank": 6,
+      "name": "OnePlus/一加",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "1w-2.5w",
+      "views": "669",
+      "video_count": "61",
+      "live_count": "560",
+      "kol_count": "329"
+    },
+    {
+      "rank": 7,
+      "name": "锋味派",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "10w-25w",
+      "views": "230",
+      "video_count": "111",
+      "live_count": "2217",
+      "kol_count": "1018"
+    },
+    {
+      "rank": 32,
+      "name": "08",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "1000-2500"
+    },
+    {
+      "rank": 46,
+      "name": "1",
+      "sales_amount": "6",
+      "sales_count": "5",
+      "views": "2"
+    },
+    {
+      "rank": 9,
+      "name": "adidas/阿迪达斯",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "5w-7.5w",
+      "views": "2.6w",
+      "video_count": "585",
+      "live_count": "2787",
+      "kol_count": "1749"
+    },
+    {
+      "rank": 10,
+      "name": "OPPO",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "1w-2.5w",
+      "views": "2518",
+      "video_count": "436",
+      "live_count": "1378",
+      "kol_count": "946"
+    }
+  ]
+}

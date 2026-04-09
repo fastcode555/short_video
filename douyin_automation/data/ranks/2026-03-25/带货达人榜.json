@@ -1,0 +1,110 @@
+{
+  "name": "带货达人榜",
+  "date": "2026-03-25",
+  "items": [
+    {
+      "rank": 1,
+      "name": "与辉同行",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "50w-75w",
+      "views": "0-250",
+      "video_count": "696",
+      "live_count": "6",
+      "kol_count": "2"
+    },
+    {
+      "rank": 2,
+      "name": "新疆和田玉老郑",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "2.5w-5w",
+      "views": "500-750",
+      "video_count": "131",
+      "live_count": "0",
+      "kol_count": "1"
+    },
+    {
+      "rank": 3,
+      "name": "八姨太仙女可",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "25w-50w",
+      "views": "0-250",
+      "video_count": "87",
+      "live_count": "0",
+      "kol_count": "1"
+    },
+    {
+      "rank": 4,
+      "name": "喵际官方旗舰店精选",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "2500-5000",
+      "views": "2500-5000",
+      "video_count": "7",
+      "live_count": "0",
+      "kol_count": "2"
+    },
+    {
+      "rank": 5,
+      "name": "乡妹朱朱",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "10w-25w",
+      "views": "0-250",
+      "video_count": "71",
+      "live_count": "0",
+      "kol_count": "2"
+    },
+    {
+      "rank": 6,
+      "name": "宫藏黄金旗舰店",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "1000-2500",
+      "views": "5000-7500"
+    },
+    {
+      "rank": 22,
+      "name": "2",
+      "sales_amount": "1"
+    },
+    {
+      "rank": 7,
+      "name": "九乐官方旗舰店",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "5000-7500",
+      "views": "1000-2500",
+      "video_count": "83",
+      "live_count": "5",
+      "kol_count": "2"
+    },
+    {
+      "rank": 8,
+      "name": "孙坚",
+      "sales_amount": "750w-1000w",
+      "sales_count": "2.5w-5w",
+      "views": "0-250",
+      "video_count": "62",
+      "live_count": "0",
+      "kol_count": "1"
+    },
+    {
+      "rank": 9,
+      "name": "兰知春序",
+      "sales_amount": "750w-1000w",
+      "sales_count": "7.5w-10w",
+      "views": "0-250",
+      "video_count": "258"
+    },
+    {
+      "rank": 32,
+      "name": "1"
+    },
+    {
+      "rank": 10,
+      "name": "佳佳（好粗鲁）26号孚登软膜专场",
+      "sales_amount": "750w-1000w",
+      "sales_count": "2.5w-5w",
+      "views": "0-250",
+      "video_count": "6",
+      "live_count": "0",
+      "kol_count": "2"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "name": "实时直播热榜",
+  "date": "2026-03-25",
+  "items": [
+    {
+      "rank": 1,
+      "name": "实时大屏",
+      "fans": "粉丝数：190.1w",
+      "sales_amount": "2500-5000",
+      "sales_count": "2500w-5000w",
+      "views": "7.5w-10w",
+      "video_count": "1.2w"
+    },
+    {
+      "rank": 2,
+      "name": "实时大屏",
+      "fans": "粉丝数：23.2w",
+      "sales_amount": "5000-7500",
+      "sales_count": "2500w-5000w",
+      "views": "5w-7.5w",
+      "video_count": "2.2w"
+    },
+    {
+      "rank": 3,
+      "name": "实时大屏",
+      "fans": "粉丝数：925.4w",
+      "sales_amount": "1000-2500",
+      "sales_count": "2500w-5000w",
+      "views": "10w-25w",
+      "video_count": "4.6w"
+    },
+    {
+      "rank": 4,
+      "name": "实时大屏",
+      "fans": "粉丝数：356.5w",
+      "sales_amount": "500-750",
+      "sales_count": "1000w-2500w",
+      "views": "10w-25w",
+      "video_count": "2.0w"
+    },
+    {
+      "rank": 5,
+      "name": "实时大屏",
+      "fans": "粉丝数：21.7w",
+      "sales_amount": "50-100",
+      "sales_count": "1000w-2500w",
+      "views": "1000-2500",
+      "video_count": "1758"
+    },
+    {
+      "rank": 6,
+      "name": "实时大屏",
+      "fans": "粉丝数：3901.2w",
+      "sales_amount": "5000-7500",
+      "sales_count": "1000w-2500w",
+      "views": "10w-25w",
+      "video_count": "7.4w"
+    },
+    {
+      "rank": 7,
+      "name": "实时大屏",
+      "fans": "粉丝数：334.8w",
+      "sales_amount": "0-50",
+      "sales_count": "1000w-2500w",
+      "views": "5000-7500",
+      "video_count": "812"
+    },
+    {
+      "rank": 8,
+      "name": "实时大屏",
+      "fans": "粉丝数：3.2w",
+      "sales_amount": "0-50",
+      "sales_count": "1000w-2500w",
+      "views": "250-500",
+      "video_count": "319"
+    },
+    {
+      "rank": 9,
+      "name": "实时大屏",
+      "fans": "粉丝数：44.5w",
+      "sales_amount": null,
+      "sales_count": "1000w-2500w",
+      "views": "2500-5000",
+      "video_count": "535"
+    },
+    {
+      "rank": 10,
+      "name": "实时大屏",
+      "fans": "粉丝数：38.2w",
+      "sales_amount": null,
+      "sales_count": "1000w-2500w",
+      "views": "1000-2500",
+      "video_count": "186"
+    }
+  ]
+}

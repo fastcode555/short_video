@@ -1,0 +1,4 @@
+# file: /Users/infinity/Code/githubs/short_video/douyin_automation/src/douyin_automation/content/content_analyzer.py
+# hypothesis_version: 6.151.9
+
+[100.0, 100, '#', '#\\S+', '[？?]', '\\d+\\s*[个款种件条步招点类样]', 'analyzed_at', 'count', 'frequency', 'hashtag', 'keyword', 'pattern_type', 'percentage', 'title_patterns', 'top_hashtags', 'top_keywords', '其他', '太', '好吃', '好用', '巨', '情感词', '推荐', '数字列表', '棒', '爆', '疑问句', '真', '绝', '赞', '超', '香']

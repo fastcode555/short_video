@@ -1,0 +1,57 @@
+{
+  "name": "直播热度榜",
+  "date": "2026-03-25",
+  "items": [
+    {
+      "rank": 1,
+      "name": "直播中",
+      "sales_amount": "2351.4w"
+    },
+    {
+      "rank": 2,
+      "name": "直播中",
+      "sales_amount": "981.4w"
+    },
+    {
+      "rank": 3,
+      "name": "直播中",
+      "sales_amount": "612.7w"
+    },
+    {
+      "rank": 4,
+      "name": "直播中",
+      "sales_amount": "523.9w"
+    },
+    {
+      "rank": 5,
+      "name": "直播中",
+      "sales_amount": "347.9w"
+    },
+    {
+      "rank": 6,
+      "name": "直播中",
+      "sales_amount": "254.8w"
+    },
+    {
+      "rank": 7,
+      "name": "直播中",
+      "sales_amount": "207.8w"
+    },
+    {
+      "rank": 8,
+      "name": "直播中",
+      "sales_amount": "169.7w"
+    },
+    {
+      "rank": 9,
+      "name": "直播中",
+      "sales_amount": "160.4w"
+    },
+    {
+      "rank": 10,
+      "name": "直播中",
+      "sales_amount": null,
+      "sales_count": "125.1w"
+    }
+  ]
+}

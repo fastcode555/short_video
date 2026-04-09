@@ -1,0 +1,115 @@
+{
+  "name": "商品搜索榜",
+  "date": "2026-03-25",
+  "items": [
+    {
+      "rank": 1,
+      "name": "【升级版美赞臣液体钙】5桶儿童有机钙锌骨胶原酪蛋白7重营养搭配",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "2.5w-5w",
+      "views": "26.7w",
+      "video_count": "0",
+      "live_count": "1",
+      "kol_count": "1"
+    },
+    {
+      "rank": 2,
+      "name": "【三盒专属】锋味派爆汁烤肠谢霆锋推荐猪肉肉肠火腿肠三盒到手24根",
+      "rating": "4.60",
+      "good_rate": "94.00%",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "10w-25w",
+      "views": "85.4w",
+      "video_count": "0",
+      "live_count": "3",
+      "kol_count": "3"
+    },
+    {
+      "rank": 3,
+      "name": "喵际MIAOJI 足金999.9投资财富金条多规格黄金金条AU999.9 DR",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "1000-2500",
+      "views": "3.4w",
+      "video_count": "0",
+      "live_count": "6",
+      "kol_count": "4"
+    },
+    {
+      "rank": 4,
+      "name": "领丰金财富金条足金9999黄金金块收藏结婚礼物大展宏图投资",
+      "good_rate": "98.40%",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "1000-2500",
+      "views": "7.3w",
+      "video_count": "0",
+      "live_count": "3",
+      "kol_count": "3"
+    },
+    {
+      "rank": 5,
+      "name": "【免费配度数】佐川新款修容方框磁吸眼镜女显脸小镜架男潮",
+      "commission_rate": "1%",
+      "good_rate": "94.00%",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "5w-7.5w",
+      "views": null,
+      "video_count": "0",
+      "live_count": "2",
+      "kol_count": "1"
+    },
+    {
+      "rank": 6,
+      "name": "领丰金 零花钱攒金豆豆足金投资9999黄金1克金豆子实心黄金储蓄豆",
+      "good_rate": "98.40%",
+      "sales_amount": "750w-1000w",
+      "sales_count": "7500-1w",
+      "views": "17.3w",
+      "video_count": "3",
+      "live_count": "5",
+      "kol_count": "6"
+    },
+    {
+      "rank": 7,
+      "name": "沃鼎王者神剑鲢鳙竿轻量大物台钓竿手杆超轻超硬碳素鱼杆钓鱼竿",
+      "sales_amount": "750w-1000w",
+      "sales_count": "1000-2500",
+      "views": null,
+      "video_count": "0",
+      "live_count": "8",
+      "kol_count": "8"
+    },
+    {
+      "rank": 8,
+      "name": "喵际MIAOJI 足金投资财富金条多规格收藏送礼DB",
+      "sales_amount": "500w-750w",
+      "sales_count": "750-1000",
+      "views": "2.8w",
+      "video_count": "0",
+      "live_count": "5",
+      "kol_count": "3"
+    },
+    {
+      "rank": 9,
+      "name": "足金9999金条投资金财富金条实心RSJY-002G",
+      "good_rate": "96.00%",
+      "sales_amount": "500w-750w",
+      "sales_count": "750-1000",
+      "views": "2.0w",
+      "video_count": "0",
+      "live_count": "1",
+      "kol_count": "1"
+    },
+    {
+      "rank": 10,
+      "name": "【至高24期免息】小米 Xiaomi 17 Pro 小米手机",
+      "good_rate": "100.00%",
+      "sales_amount": "500w-750w",
+      "sales_count": "1000-2500",
+      "views": "10.5w"
+    },
+    {
+      "rank": 10,
+      "name": "18"
+    }
+  ]
+}

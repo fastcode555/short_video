@@ -1,0 +1,4 @@
+# file: /Users/infinity/Code/githubs/short_video/douyin_automation/src/douyin_automation/models/__init__.py
+# hypothesis_version: 6.151.9
+
+['AttachResult', 'CollectionReport', 'ContentAnalysis', 'DownloadResult', 'HashtagStat', 'KeywordStat', 'ModuleType', 'PatternStat', 'PipelineConfig', 'PipelineRun', 'ProductMetrics', 'PublishLog', 'PublishSchedule', 'RawProduct', 'ScoredProduct', 'TaskStatus', 'TrendingProduct', 'UploadResult', 'VideoCaption', 'VideoContent', 'VideoScript']

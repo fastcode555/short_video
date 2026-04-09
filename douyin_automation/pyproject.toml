@@ -1,13 +1,13 @@
 [build-system]
 requires = ["setuptools>=68.0", "wheel"]
-build-backend = "setuptools.backends.legacy:build"
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "douyin-automation"
 version = "0.1.0"
 description = "抖音带货自动化系统：全流程自动化爆款商品发现、素材采集、内容生成与发布"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 
 dependencies = [

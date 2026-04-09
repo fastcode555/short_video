@@ -1,0 +1,4 @@
+# file: /Users/infinity/Code/githubs/short_video/douyin_automation/src/douyin_automation/crawler/crawler.py
+# hypothesis_version: 6.151.9
+
+[0.0, 0.2, 0.4, 0.6, 5.0, 30.0, 60.0, 68.0, 99.9, 100.0, 159.0, 290, 429, 430, 500, 780, 890, 1000, 1100, 1200, 2100, 2300, 3400, 3800, 5200, 5600, 6200, 8500, 9800, 10000, 11000, 15000, 22000, '#口红测评', '#夏日穿搭', '#好物推荐', '#服饰', '#美妆', '#连衣裙', 'Accept', 'Accept-Encoding', 'Accept-Language', 'Referer', 'User-Agent', 'gzip, deflate, br', 'prod_001', 'prod_002', 'prod_003', 'vid_001_a', 'vid_002_a', '夏天必备！这条裙子太好看了', '夏季新款连衣裙', '有机坚果礼盒', '服饰', '未找到商品 %s 的数据，返回默认指标', '网红爆款口红套装', '美妆', '获取商品 %s 指标完成', '这款口红真的绝了！', '食品']

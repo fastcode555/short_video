@@ -1,0 +1,98 @@
+{
+  "name": "视频带货达人榜",
+  "date": "2026-03-25",
+  "items": [
+    {
+      "rank": 1,
+      "name": "@冯月月",
+      "sales_amount": "100w-250w",
+      "sales_count": "500-750",
+      "views": "2500-5000",
+      "video_count": "1",
+      "live_count": "1"
+    },
+    {
+      "rank": 2,
+      "name": "华为平板官方直播间",
+      "sales_amount": "100w-250w",
+      "sales_count": "500-750",
+      "views": "2500-5000",
+      "video_count": "7",
+      "live_count": "6"
+    },
+    {
+      "rank": 3,
+      "name": "碧云泉官方旗舰店",
+      "sales_amount": "100w-250w",
+      "sales_count": "500-750",
+      "views": "2500-5000",
+      "video_count": "3",
+      "live_count": "8"
+    },
+    {
+      "rank": 4,
+      "name": "乳酸菌R",
+      "sales_amount": "100w-250w",
+      "sales_count": "2.5w-5w",
+      "views": "0-250",
+      "video_count": "403",
+      "live_count": "590"
+    },
+    {
+      "rank": 5,
+      "name": "东方甄选店铺",
+      "sales_amount": "100w-250w",
+      "sales_count": "1w-2.5w",
+      "views": "0-250",
+      "video_count": "115",
+      "live_count": "317"
+    },
+    {
+      "rank": 6,
+      "name": "图图的开箱日记",
+      "sales_amount": "100w-250w",
+      "sales_count": "250-500",
+      "views": "1000-2500",
+      "video_count": "1",
+      "live_count": "1"
+    },
+    {
+      "rank": 7,
+      "name": "东方甄选",
+      "sales_amount": "100w-250w",
+      "sales_count": "1w-2.5w",
+      "views": "0-250",
+      "video_count": "156",
+      "live_count": "385"
+    },
+    {
+      "rank": 8,
+      "name": "叶子小姨妈🌞",
+      "sales_amount": "75w-100w",
+      "sales_count": "1w-2.5w",
+      "views": "0-250",
+      "video_count": "1",
+      "live_count": "2"
+    },
+    {
+      "rank": 9,
+      "name": "开心就好😄好物分享",
+      "sales_amount": "75w-100w",
+      "sales_count": "1w-2.5w",
+      "views": "0-250"
+    },
+    {
+      "rank": 18,
+      "name": "44"
+    },
+    {
+      "rank": 10,
+      "name": "你看谁来了",
+      "sales_amount": "75w-100w",
+      "sales_count": "2.5w-5w",
+      "views": "0-250",
+      "video_count": "169",
+      "live_count": "271"
+    }
+  ]
+}

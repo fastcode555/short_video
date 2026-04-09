@@ -1,0 +1,149 @@
+{
+  "top_keywords": [
+    {
+      "keyword": "锋味",
+      "frequency": 11
+    },
+    {
+      "keyword": "美赞臣",
+      "frequency": 10
+    },
+    {
+      "keyword": "烤肠",
+      "frequency": 9
+    },
+    {
+      "keyword": "液体钙",
+      "frequency": 8
+    },
+    {
+      "keyword": "孩子",
+      "frequency": 6
+    },
+    {
+      "keyword": "安排",
+      "frequency": 4
+    },
+    {
+      "keyword": "推荐",
+      "frequency": 4
+    },
+    {
+      "keyword": "真的",
+      "frequency": 4
+    },
+    {
+      "keyword": "星级",
+      "frequency": 4
+    },
+    {
+      "keyword": "私厨",
+      "frequency": 4
+    },
+    {
+      "keyword": "营养",
+      "frequency": 3
+    },
+    {
+      "keyword": "学优力",
+      "frequency": 3
+    },
+    {
+      "keyword": "这个",
+      "frequency": 3
+    },
+    {
+      "keyword": "爆汁",
+      "frequency": 3
+    },
+    {
+      "keyword": "谢霆锋",
+      "frequency": 3
+    },
+    {
+      "keyword": "太香",
+      "frequency": 3
+    },
+    {
+      "keyword": "肉质",
+      "frequency": 3
+    },
+    {
+      "keyword": "儿童",
+      "frequency": 2
+    },
+    {
+      "keyword": "还是",
+      "frequency": 2
+    },
+    {
+      "keyword": "宝妈",
+      "frequency": 2
+    }
+  ],
+  "top_hashtags": [
+    {
+      "hashtag": "#烤肠",
+      "frequency": 5
+    },
+    {
+      "hashtag": "#锋味派你的星级私厨",
+      "frequency": 4
+    },
+    {
+      "hashtag": "#锋味派烤肠",
+      "frequency": 4
+    },
+    {
+      "hashtag": "#美赞臣",
+      "frequency": 3
+    },
+    {
+      "hashtag": "#美赞臣学优力液体钙",
+      "frequency": 3
+    },
+    {
+      "hashtag": "#液体钙",
+      "frequency": 2
+    },
+    {
+      "hashtag": "#美赞臣钙锌维生素",
+      "frequency": 2
+    },
+    {
+      "hashtag": "#宝妈推荐",
+      "frequency": 2
+    },
+    {
+      "hashtag": "#母婴好物",
+      "frequency": 2
+    },
+    {
+      "hashtag": "#育儿",
+      "frequency": 2
+    }
+  ],
+  "title_patterns": [
+    {
+      "pattern_type": "疑问句",
+      "count": 0,
+      "percentage": 0.0
+    },
+    {
+      "pattern_type": "数字列表",
+      "count": 0,
+      "percentage": 0.0
+    },
+    {
+      "pattern_type": "情感词",
+      "count": 2,
+      "percentage": 100.0
+    },
+    {
+      "pattern_type": "其他",
+      "count": 0,
+      "percentage": 0.0
+    }
+  ],
+  "analyzed_at": "2026-03-26T11:00:50.532597"
+}

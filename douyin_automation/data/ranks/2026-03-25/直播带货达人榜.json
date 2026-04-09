@@ -1,0 +1,112 @@
+{
+  "name": "直播带货达人榜",
+  "date": "2026-03-25",
+  "items": [
+    {
+      "rank": 1,
+      "name": "领丰金官方旗舰店",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "7500-1w",
+      "views": "2500-5000",
+      "video_count": "80",
+      "live_count": "4",
+      "kol_count": "44.4w"
+    },
+    {
+      "rank": 2,
+      "name": "与辉同行",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "25w-50w",
+      "views": "0-250",
+      "video_count": "708",
+      "live_count": "2",
+      "kol_count": "1368.4w"
+    },
+    {
+      "rank": 3,
+      "name": "领丰金严选",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "5000-7500",
+      "views": "2500-5000",
+      "video_count": "84",
+      "live_count": "2",
+      "kol_count": "62.4w"
+    },
+    {
+      "rank": 4,
+      "name": "锋味派官方旗舰店",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "10w-25w",
+      "views": "0-250"
+    },
+    {
+      "rank": 39,
+      "name": "1",
+      "sales_amount": "147.5w"
+    },
+    {
+      "rank": 5,
+      "name": "嘉统官方旗舰店",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "1000-2500",
+      "views": "1w-2.5w"
+    },
+    {
+      "rank": 28,
+      "name": "1",
+      "sales_amount": "13.4w"
+    },
+    {
+      "rank": 6,
+      "name": "国岳-去体检了，休息几天",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "5w-7.5w",
+      "views": "250-500"
+    },
+    {
+      "rank": 20,
+      "name": "1",
+      "sales_amount": "414.5w"
+    },
+    {
+      "rank": 7,
+      "name": "欢姐 0220",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "5w-7.5w",
+      "views": "0-250",
+      "video_count": "80",
+      "live_count": "1",
+      "kol_count": "235.9w"
+    },
+    {
+      "rank": 8,
+      "name": "新疆和田玉老郑",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "1w-2.5w",
+      "views": "500-750",
+      "video_count": "251",
+      "live_count": "2",
+      "kol_count": "143.6w"
+    },
+    {
+      "rank": 9,
+      "name": "东方甄选美丽生活",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "5w-7.5w",
+      "views": "0-250",
+      "video_count": "120",
+      "live_count": "3",
+      "kol_count": "100.6w"
+    },
+    {
+      "rank": 10,
+      "name": "京京.(衡越黄金联合创始人）",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "2500-5000",
+      "views": "2500-5000",
+      "video_count": "103",
+      "live_count": "1",
+      "kol_count": "32.4w"
+    }
+  ]
+}

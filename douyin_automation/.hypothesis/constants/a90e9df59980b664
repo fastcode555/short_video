@@ -1,0 +1,4 @@
+# file: /Users/infinity/Code/githubs/short_video/douyin_automation/src/douyin_automation/models/domain.py
+# hypothesis_version: 6.151.9
+
+['Asia/Shanghai', 'content_analyzer', 'content_generator', 'crawler', 'failed', 'material_collector', 'pending', 'product_analyzer', 'publisher', 'running', 'skipped', 'success']

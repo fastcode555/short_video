@@ -1,0 +1,124 @@
+{
+  "name": "小店销售榜",
+  "date": "2026-03-25",
+  "items": [
+    {
+      "rank": 1,
+      "name": "领丰金收藏旗舰店",
+      "sales_amount": "5000w-7500w",
+      "sales_count": "1w-2.5w",
+      "views": "51"
+    },
+    {
+      "rank": 11,
+      "name": "13",
+      "sales_amount": "7"
+    },
+    {
+      "rank": 2,
+      "name": "喵际官方旗舰店",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "2500-5000"
+    },
+    {
+      "rank": 18,
+      "name": "0"
+    },
+    {
+      "rank": 15,
+      "name": "8"
+    },
+    {
+      "rank": 3,
+      "name": "嘉统官方旗舰店",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "1000-2500"
+    },
+    {
+      "rank": 45,
+      "name": "0",
+      "sales_amount": "2",
+      "sales_count": "2"
+    },
+    {
+      "rank": 4,
+      "name": "锋味派官方旗舰店",
+      "sales_amount": "2500w-5000w",
+      "sales_count": "10w-25w",
+      "views": "96",
+      "video_count": "102",
+      "live_count": "111",
+      "kol_count": "128"
+    },
+    {
+      "rank": 5,
+      "name": "一加手机旗舰店",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "2500-5000"
+    },
+    {
+      "rank": 15,
+      "name": "5",
+      "sales_amount": "113",
+      "sales_count": "59"
+    },
+    {
+      "rank": 6,
+      "name": "02ran20",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "7.5w-10w",
+      "views": "70",
+      "video_count": "63",
+      "live_count": "1"
+    },
+    {
+      "rank": 26,
+      "name": "07",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "2.5w-5w"
+    },
+    {
+      "rank": 28,
+      "name": "23"
+    },
+    {
+      "rank": 37,
+      "name": "52"
+    },
+    {
+      "rank": 8,
+      "name": "中国珠宝官方旗舰店",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "1000-2500"
+    },
+    {
+      "rank": 21,
+      "name": "5",
+      "sales_amount": "7",
+      "sales_count": "7"
+    },
+    {
+      "rank": 9,
+      "name": "佐川官方旗舰店",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "7.5w-10w",
+      "views": "115"
+    },
+    {
+      "rank": 12,
+      "name": "41"
+    },
+    {
+      "rank": 32,
+      "name": "10",
+      "sales_amount": "1000w-2500w",
+      "sales_count": "1000-2500"
+    },
+    {
+      "rank": 11,
+      "name": "1",
+      "sales_amount": "3",
+      "sales_count": "3"
+    }
+  ]
+}

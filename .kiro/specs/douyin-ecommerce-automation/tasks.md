@@ -8,35 +8,35 @@
   - [x] 1.3 定义所有核心数据模型（dataclass）：RawProduct、ScoredProduct、TrendingProduct、DownloadResult、CollectionReport、VideoContent、ContentAnalysis、VideoScript、VideoCaption、PublishLog、PipelineConfig、PipelineRun 等
   - [x] 1.4 配置 Celery + Redis 任务队列，定义任务路由和重试策略基础配置
 
-- [ ] 2. 爬虫模块（Crawler）
-  - [ ] 2.1 实现 Crawler 类，支持抓取商品销量、点赞数、评论数、分享数等互动指标
-  - [ ] 2.2 实现请求频率限制器，确保每分钟请求次数不超过 30 次（需求 1.6）
-  - [ ] 2.3 实现限流/错误重试逻辑：60 秒间隔，最多重试 3 次，超限后记录错误日志（需求 1.5）
-  - [ ] 2.4 实现 fetch_video_list 方法，获取商品关联的视频列表
-  - [ ] 2.5 编写属性测试：验证请求频率控制（属性 4）和重试次数上限（属性 3）
+- [x] 2. 爬虫模块（Crawler）
+  - [x] 2.1 实现 Crawler 类，支持抓取商品销量、点赞数、评论数、分享数等互动指标
+  - [x] 2.2 实现请求频率限制器，确保每分钟请求次数不超过 30 次（需求 1.6）
+  - [x] 2.3 实现限流/错误重试逻辑：60 秒间隔，最多重试 3 次，超限后记录错误日志（需求 1.5）
+  - [x] 2.4 实现 fetch_video_list 方法，获取商品关联的视频列表
+  - [x] 2.5 编写属性测试：验证请求频率控制（属性 4）和重试次数上限（属性 3）
 
-- [ ] 3. 商品分析器（Product_Analyzer）
-  - [ ] 3.1 实现 ProductAnalyzer.score_products，基于销量增长率和互动数据计算综合评分
-  - [ ] 3.2 实现 get_trending_products，筛选评分前 20% 的商品并按评分降序排列（需求 1.2, 1.3）
-  - [ ] 3.3 实现 filter_by_category，按商品类目过滤爆款列表（需求 1.4）
-  - [ ] 3.4 编写属性测试：验证筛选数量与排序正确性（属性 1）和类目过滤完整性（属性 2）
+- [x] 3. 商品分析器（Product_Analyzer）
+  - [x] 3.1 实现 ProductAnalyzer.score_products，基于销量增长率和互动数据计算综合评分
+  - [x] 3.2 实现 get_trending_products，筛选评分前 20% 的商品并按评分降序排列（需求 1.2, 1.3）
+  - [x] 3.3 实现 filter_by_category，按商品类目过滤爆款列表（需求 1.4）
+  - [x] 3.4 编写属性测试：验证筛选数量与排序正确性（属性 1）和类目过滤完整性（属性 2）
 
-- [ ] 4. 素材采集器（Material_Collector）
-  - [ ] 4.1 实现 download_image 和 download_video 方法，支持并发下载
-  - [ ] 4.2 实现按商品 ID 分类存储逻辑，确保文件路径包含 product_id 目录（需求 2.2）
-  - [ ] 4.3 实现 deduplicate 方法，基于 URL 哈希避免重复下载（需求 2.5）
-  - [ ] 4.4 实现 verify_file_integrity 方法，通过文件大小或哈希值校验完整性，不完整则重新下载（需求 2.6）
-  - [ ] 4.5 实现 collect_materials 主流程，处理不可访问资源时跳过并记录失败原因（需求 2.3）
-  - [ ] 4.6 实现采集报告生成，包含成功数量、失败数量及失败原因（需求 2.4）
-  - [ ] 4.7 编写属性测试：验证采集报告一致性（属性 5）、存储路径（属性 6）、去重幂等性（属性 7）、完整性校验（属性 8）
+- [x] 4. 素材采集器（Material_Collector）
+  - [x] 4.1 实现 download_image 和 download_video 方法，支持并发下载
+  - [x] 4.2 实现按商品 ID 分类存储逻辑，确保文件路径包含 product_id 目录（需求 2.2）
+  - [x] 4.3 实现 deduplicate 方法，基于 URL 哈希避免重复下载（需求 2.5）
+  - [x] 4.4 实现 verify_file_integrity 方法，通过文件大小或哈希值校验完整性，不完整则重新下载（需求 2.6）
+  - [x] 4.5 实现 collect_materials 主流程，处理不可访问资源时跳过并记录失败原因（需求 2.3）
+  - [x] 4.6 实现采集报告生成，包含成功数量、失败数量及失败原因（需求 2.4）
+  - [x] 4.7 编写属性测试：验证采集报告一致性（属性 5）、存储路径（属性 6）、去重幂等性（属性 7）、完整性校验（属性 8）
 
-- [ ] 5. 文案分析器（Content_Analyzer）
-  - [ ] 5.1 实现 extract_content，提取视频标题、正文文案及全部话题标签；文案为空时返回 None 并标注（需求 3.1, 3.5）
-  - [ ] 5.2 实现 analyze_keywords，统计关键词频率，输出前 20 个（需求 3.2）
-  - [ ] 5.3 实现 analyze_hashtags，统计话题标签频率，输出前 10 个（需求 3.3）
-  - [ ] 5.4 实现 analyze_title_patterns，识别疑问句、数字列表、情感词等模式并计算占比（需求 3.4）
-  - [ ] 5.5 实现 export_json，将 ContentAnalysis 序列化为 JSON 字符串（需求 3.6）
-  - [ ] 5.6 编写属性测试：验证字段完整性（属性 9）、统计排序（属性 10）、模式占比之和（属性 11）、JSON 往返序列化（属性 12）
+- [x] 5. 文案分析器（Content_Analyzer）
+  - [x] 5.1 实现 extract_content，提取视频标题、正文文案及全部话题标签；文案为空时返回 None 并标注（需求 3.1, 3.5）
+  - [x] 5.2 实现 analyze_keywords，统计关键词频率，输出前 20 个（需求 3.2）
+  - [x] 5.3 实现 analyze_hashtags，统计话题标签频率，输出前 10 个（需求 3.3）
+  - [x] 5.4 实现 analyze_title_patterns，识别疑问句、数字列表、情感词等模式并计算占比（需求 3.4）
+  - [x] 5.5 实现 export_json，将 ContentAnalysis 序列化为 JSON 字符串（需求 3.6）
+  - [x] 5.6 编写属性测试：验证字段完整性（属性 9）、统计排序（属性 10）、模式占比之和（属性 11）、JSON 往返序列化（属性 12）
 
 - [ ] 6. 内容生成器（Content_Generator）
   - [ ] 6.1 实现 redraw_image，调用 Stable Diffusion API / ComfyUI 对商品图片进行 AI 重绘（需求 4.1）
